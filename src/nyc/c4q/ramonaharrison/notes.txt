@@ -1,0 +1,26 @@
+terminology:
+
+super class (or base class) - the class from which a subclass is derived
+
+subclass - a class derived from another class. a subclass inherits all PUBLIC methods and variables available in its superclass.
+
+single inheritance - a subclass can only be extended from a single superclass in java (vs. multiple inheritance)
+
+super -
+
+upcast -
+downcast -
+typecast -
+method overriding -
+method stubs -
+overloading -
+extends -
+implements -
+method signature -
+instanceof -
+
+public,protected,package-protected,private -
+implicit vs explicit -
+polymorphism -
+abstract -
+override -
